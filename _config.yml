@@ -19,5 +19,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-input: GFM
-hard_wrap: true
+kramdown:
+    hard_wrap: true
+    input: GFM

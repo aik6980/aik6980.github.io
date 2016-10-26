@@ -9,16 +9,15 @@ A collection of random thoughts and those small useful things to share, where, O
 
 ##### 23/10/16 Yoga and TRX
 Using TRX/Resistance band to help you goto into a difficult yoga poses
-http://fitbottomedgirls.com/2015/07/trx-workouts-how-to-use-it-for-yoga/
+<http://fitbottomedgirls.com/2015/07/trx-workouts-how-to-use-it-for-yoga/>
 
 ##### 23/10/16 Home
 Tidy up method with KonMari  
 KonMari Method, you tidy not from one room to another but by category; you go through categories, such as clothes, books and sentimental items, and pick out only what sparks joy.  
-https://www.youtube.com/watch?v=21sWodZgFxM  
+<https://www.youtube.com/watch?v=21sWodZgFxM> 
 
 ##### 21/10/16 Cooking
-วันนี้เอา Sauerkraut, Carrot, Chickpea, Green peas, มะเขือเทศ กุ้งแห้ง ถั่วลิสง มายำรวมกัน น้ำตาล มะนาวนิด น้ำปลา smoked Paprika
-ทำเสร็จ รู้สึกได้ว่า นี่มัน "ส้มตำ" นี่นา 555+
+วันนี้เอา Sauerkraut, Carrot, Chickpea, Green peas, มะเขือเทศ กุ้งแห้ง ถั่วลิสง มายำรวมกัน น้ำตาล มะนาวนิด น้ำปลา smoked Paprika ทำเสร็จ รู้สึกได้ว่า นี่มัน "ส้มตำ" นี่นา 555+
 กินกะ smoked Salmon ด้วยนะ ความฟินระดับหมื่นลี้ <3
 
 ##### 21/10/16 Cooking without oil
