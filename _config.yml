@@ -22,3 +22,11 @@ markdown: kramdown
 kramdown:
     hard_wrap: true
     input: GFM
+
+gems: [jekyll-paginate]
+
+# Pagination
+pagination: 3
+paginate_path: "page:num"
+
+permalink: none
