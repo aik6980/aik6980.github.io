@@ -25,3 +25,7 @@ kramdown:
 # Pagination
 
 permalink: none
+
+# Theme
+
+theme: midnight
