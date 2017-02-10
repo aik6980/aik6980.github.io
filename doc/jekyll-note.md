@@ -4,7 +4,10 @@ updated 08/02/17
 - **[x]** Learn to customize the theme, and maybe packed it for later use
 - **[x]** Make github theme work locally  
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll  
-Have to add Github authourization so we can access `site.github.xxx` variables 
+Have to add Github authourization so we can access `site.github.xxx` variables  
+Git metadata fixed  
+http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html  
+
 - GHPages should be default to `minima` theme. This can be tested by simply removed `/_include`, `/_sass` and `/_layout` folders from your website (These folders overriding the theme, more of this later)
 - Jykell 3.2+ supported a neat way to incorperate theme, by packing it into a gem  
 https://jekyllrb.com/docs/themes/
