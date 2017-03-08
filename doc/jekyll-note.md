@@ -1,3 +1,10 @@
+# Github pages tips
+## Emoji on GitHub Pages
+https://help.github.com/articles/emoji-on-github-pages/
+
+for example, using `:smiley:` for :smiley:
+http://www.webpagefx.com/tools/emoji-cheat-sheet/
+
 # Project: Incorperate Jekyll Theme Gem
 updated 08/02/17
 
