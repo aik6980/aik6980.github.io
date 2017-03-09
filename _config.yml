@@ -29,6 +29,7 @@ permalink: none
 # Github Emoji
 gems:
  - jemoji
+ - jekyll-github-metadata
 
 # GitHub
 theme: jekyll-theme-architect

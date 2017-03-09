@@ -13,7 +13,9 @@ updated 08/02/17
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll  
 Have to add Github authourization so we can access `site.github.xxx` variables  
 Git metadata fixed  
-http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html  
+http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html
+SSL Cert fix
+http://stackoverflow.com/questions/37219213/ssl-certificate-verification-failure-in-jekyll-github-metadata
 
 - GHPages should be default to `minima` theme. This can be tested by simply removed `/_include`, `/_sass` and `/_layout` folders from your website (These folders overriding the theme, more of this later)
 - Jykell 3.2+ supported a neat way to incorperate theme, by packing it into a gem  
