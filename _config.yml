@@ -9,8 +9,7 @@
 title: AikDev Web4
 email: aik_canhelp@hotmail.com
 description: #> # this means to ignore newlines until "baseurl:"
-  Welcome to AikDev, the place for me to share my thoughts and interesting knowledge about various topics mainly in the realm of Software Development<br/>   
- This is my 4th Iteration learning Web Development, using Jekyll, one of the most popular Static site generator.
+ Learn to Code - Code to Learn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -23,6 +22,7 @@ kramdown:
     input: GFM
 
 # Pagination
+paginate: 3
 
 permalink: none
 

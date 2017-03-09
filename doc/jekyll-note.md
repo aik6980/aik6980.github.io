@@ -5,20 +5,30 @@ https://help.github.com/articles/emoji-on-github-pages/
 for example, using `:smiley:` for :smiley:
 http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-# Project: Incorperate Jekyll Theme Gem
-updated 08/02/17
 
-- **[x]** Learn to customize the theme, and maybe packed it for later use
-- **[x]** Make github theme work locally  
+# Project: Github Page as a proper website
+updated 09/03/17
+
+- **[x]** Updated CV Page
+- **[x]** Basic layout
+- **optional** Themes
+
+# Project: Incorporate Jekyll Theme Gem
+updated 09/03/17
+
+- **[wip]** Learn to customize the theme, and maybe packed it for later use
+- **[done]** Make github theme work locally  
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll  
-Have to add Github authourization so we can access `site.github.xxx` variables  
-Git metadata fixed  
-http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html
-SSL Cert fix
-http://stackoverflow.com/questions/37219213/ssl-certificate-verification-failure-in-jekyll-github-metadata
+Have to add Github authorization so we can access `site.github.xxx` variables  
+  - Git metadata fixed  
+  use `gem 'jekyll-github-metadata'` , simply put it into Bundle
+~~http://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html~~
+  - SSL Cert fix (working)  
+  This is not Github problem but Ruby SSL problem on Windows OS, this is why it is so difficult to find the solution Orz  
+  http://stackoverflow.com/questions/37219213/ssl-certificate-verification-failure-in-jekyll-github-metadata
 
 - GHPages should be default to `minima` theme. This can be tested by simply removed `/_include`, `/_sass` and `/_layout` folders from your website (These folders overriding the theme, more of this later)
-- Jykell 3.2+ supported a neat way to incorperate theme, by packing it into a gem  
+- Jykell 3.2+ supported a neat way to incorporate theme, by packing it into a gem  
 https://jekyllrb.com/docs/themes/
 - Github pages supported following themes
 - using 'bundler' gem, created 'GemFile' on the root level of your website (if there ain't any)  
@@ -32,3 +42,10 @@ gem 'github-pages', group: :jekyll_plugins
 https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/
 
 # Project: Jekyll Pagination 
+updated 09/03/17
+
+Once I understand how to use `bundle` and `Gemfile` this is very simple. Basically following steps defined in Jekyll user guide
+
+> https://jekyllrb.com/docs/pagination/
+
+This is working but not without limitation, for a free web page I think this is good enough
