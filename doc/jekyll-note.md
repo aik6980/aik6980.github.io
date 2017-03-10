@@ -1,10 +1,12 @@
 # Github pages tips
+## Liquid syntax
+https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+
 ## Emoji on GitHub Pages
 https://help.github.com/articles/emoji-on-github-pages/
 
 for example, using `:smiley:` for :smiley:
 http://www.webpagefx.com/tools/emoji-cheat-sheet/
-
 
 # Project: Github Page as a proper website
 updated 09/03/17
@@ -12,6 +14,7 @@ updated 09/03/17
 - **[x]** Updated CV Page
 - **[x]** Basic layout
 - **optional** Themes
+- **optional** `post.excerpt` doesn't work as intended, need investigation
 
 # Project: Incorporate Jekyll Theme Gem
 updated 09/03/17
