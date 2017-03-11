@@ -7,6 +7,9 @@ tags: [blog]
 
 A collection of random thoughts and those small useful things to share, where, One day some of these idea might spark into a full post
 
+##### 09/03/17 Taking a bath
+There is no rule about how many times you can come out and go back into your tub during one hot bath. Try it, come out and get some drinks, then go back and enjoy your bath for 2nd round. 
+
 ##### 23/10/16 Yoga and TRX
 Using TRX/Resistance band to help you goto into a difficult yoga poses
 <http://fitbottomedgirls.com/2015/07/trx-workouts-how-to-use-it-for-yoga/>
@@ -43,5 +46,5 @@ Linda McCartney Veggie Sausages are amazing. (that tasty spicy dumpling I had wh
 ##### 01/01/16 Walking
 Buying shoes based on your bigger foot, then padding the smaller one with insoles.
 
-![linda Sausages](https://snag.gy/8GzyVR.jpg) ![furoshiki](https://snag.gy/swtUWM.jpg) ![pgtip gold](https://snag.gy/nM5cJs.jpg)
+![bath salt](http://i.imgur.com/nPIU3iLt.jpg) ![linda Sausages](https://snag.gy/8GzyVR.jpg) ![furoshiki](https://snag.gy/swtUWM.jpg) ![pgtip gold](https://snag.gy/nM5cJs.jpg)
 [![konmari](http://i.imgur.com/bXMexHwt.png)](http://i.imgur.com/bXMexHw.png) [![trx-yoga](http://imgur.com/h3ntn1nt.png)](http://fitbottomedgirls.com/2015/07/trx-workouts-how-to-use-it-for-yoga/) ![courgette-noodle](http://i.imgur.com/YxaInXst.jpg)
