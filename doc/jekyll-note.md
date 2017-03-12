@@ -25,7 +25,9 @@ updated 09/03/17
 # Project: Bootstrap
 updated 12/03/17
 
-Create web layout from scratch using Bootstrap
+- **[wip]** Create web layout from scratch using Bootstrap
+- Better learn more about HTML5 too, https://www.w3schools.com/tags/default.asp
+- Bootstrap Ref, https://v4-alpha.getbootstrap.com/content/typography/
 
 # Project: Incorporate Jekyll Theme Gem
 updated 09/03/17
