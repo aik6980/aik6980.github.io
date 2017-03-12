@@ -17,7 +17,7 @@ Split a screen into separate Tabs with ease. Resize opened tabs into layouts on 
 # Project: Github Page as a proper website
 updated 09/03/17
 
-- **[x]** Updated CV Page
+- **[wip]** Updated CV Page
 - **[x]** Basic layout
 - **optional** Themes
 - **optional** `post.excerpt` doesn't work as intended, need investigation
