@@ -16,6 +16,11 @@ updated 09/03/17
 - **optional** Themes
 - **optional** `post.excerpt` doesn't work as intended, need investigation
 
+# Project: Bootstrap
+updated 12/03/17
+
+Create web layout from scratch using Bootstrap
+
 # Project: Incorporate Jekyll Theme Gem
 updated 09/03/17
 
