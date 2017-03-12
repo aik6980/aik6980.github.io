@@ -8,6 +8,12 @@ https://help.github.com/articles/emoji-on-github-pages/
 for example, using `:smiley:` for :smiley:
 http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
+## Useful Chrome plugins for web development
+### Markdown Reader
+Markdown Reader, for quick preview of your markdown files
+### Split Tabs
+Split a screen into separate Tabs with ease. Resize opened tabs into layouts on separate windows with multiple displays support
+
 # Project: Github Page as a proper website
 updated 09/03/17
 
