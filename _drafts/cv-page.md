@@ -1,4 +1,5 @@
 # WITTAWAT KEAWCHAROEN
+updated 13/03/17
 
 ## Career aspect
 My goal is about Learning and Exploring new methods in order to understand the full spectrum of Modern software development, especially in Video Games, Movies and Interactive software Industry.
@@ -41,7 +42,7 @@ Working part-time as an assistant tutor for Game programming Lab modules
 Based in Thailand, I worked in several countries in the area as a System Engineer. Experienced in programming and leading a small team developing custom made software for Control Manufacturing processes.
 
 ## Awards and Voluntary work
-### Mentoring at Coder Dojo, Horsham (2015 - Present)
+### STEM Ambassador, mentoring at Coder Dojo, Horsham (2015 - Present)
 Registered as a STEM Ambassador, I worked voluntary in collaboration with local school
 ### Project: HELP The Game, WARCHILD UK (2016)
 Representing CA with a small Rhythm-base game for WARCHILD Charity, working in a team of 7 as a principle programmer.
