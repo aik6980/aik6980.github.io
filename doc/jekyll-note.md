@@ -15,12 +15,19 @@ Markdown Reader, for quick preview of your markdown files
 Split a screen into separate Tabs with ease. Resize opened tabs into layouts on separate windows with multiple displays support
 
 # Project: Github Page as a proper website
-updated 09/03/17
+updated 14/03/17
 
 - **[wip]** Updated CV Page
-- **[x]** Basic layout
-- **optional** Themes
+- **[wip]** Web layout
+- **[done]** Setup custom domain (aikdev.co.uk) using cloudflare
+- ~~**optional** Themes~~ now using Bootstrap 4
 - **optional** `post.excerpt` doesn't work as intended, need investigation
+
+### Custom domain setup
+1. Setup custom domain name inside Github project *Setting* menu  
+https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
+1. Setup an apex domain in Cloudflare  
+https://help.github.com/articles/setting-up-an-apex-domain/
 
 # Project: Bootstrap
 updated 12/03/17
@@ -28,6 +35,10 @@ updated 12/03/17
 - **[wip]** Create web layout from scratch using Bootstrap
 - Better learn more about HTML5 too, https://www.w3schools.com/tags/default.asp
 - Bootstrap Ref, https://v4-alpha.getbootstrap.com/content/typography/
+
+## Liquid syntax
+### Nav menu sorting
+http://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid
 
 # Project: Incorporate Jekyll Theme Gem
 updated 09/03/17
