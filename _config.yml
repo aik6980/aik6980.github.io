@@ -32,6 +32,7 @@ excerpt_separator: "<!--more-->"
 gems:
  - jemoji
  - jekyll-github-metadata
+ - jekyll-paginate
 
 # GitHub
 theme: jekyll-theme-architect
