@@ -1,3 +1,4 @@
 ---
-layout: default
+layout: default-page
+title: LifeBlog page
 ---
