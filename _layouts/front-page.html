@@ -11,13 +11,13 @@
     <body>
         <div class='wrapper'>
             <header>
-                <div class='jumbotron jumbotron-fluid'>
+                <div class='jumbotron'>
                     <div class="parallax text-center">
                         <div class='parallax-pattern-overlay'>
                             <div class='container text-center'>
                                 <h1>{{ site.title }}</h1>
-                                <h1 class='display-4'>Learn to Code; Code to Learn</h2>
-                                <h3>The best time is now</h3>
+                                <h1 class='display-4'>Learn to Code-Code to Learn</h2>
+                                <h3 class="lead">The best time is now</h3>
                             </div>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
             </header>
 
             <section id='features'>
-                <div class='container-fluid'>
+                <div class='container'>
                     <div class="card-deck-wrapper">
                         <div class="card-group">
                             <div class="card card-inverse card-success text-center">
@@ -46,6 +46,23 @@
                         </div>
                     </div>
                 </div>
+
+                <div class='container'>
+                    <div id="carousel0" class="carousel slide m-4" data-ride="carousel">
+                        {% assign num_items = 3 %}
+                        <ol class="carousel-indicators">
+                            {% for i in (1..num_items) %}
+                                <li data-target="#carousel0" data-slide-to="{{i-1}}" {% if i==1 %}class="active"{% endif %} />
+                            {% endfor %}
+                        </ol>
+                        <div class="carousel-inner" role="listbox">
+                        {% for i in (1..num_items) %}
+                            <div class="carousel-item {% if i==1 %}active{% endif %}">
+                                <img class="img-fluid mx-auto" src="https://placehold.it/750x250" />
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
             </section>
 
             <section id='about'>
@@ -55,7 +72,7 @@
             </section>
 
             <section id='footer'>
-                <div class='container-fluid mt-5 mx-auto'>
+                <div class='container mt-5 mx-auto'>
                     <div class='row'>
                         <div class='col-md-5 m-0'>
                             <hr/>
