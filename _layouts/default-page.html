@@ -11,35 +11,54 @@
     <body>
         <div class='wrapper'>
             <header class='container'>
+                <small>
                 <nav class='navbar navbar-toggleable-md'>
-                    <h4 class='nav-brand'><a class='nav-link' href='#'>AikDev Home</a></h4>
+                    <h5 class='nav-brand'><a class='nav-link' href='/'>AikDev-Home</a></h5>
                     <ul class='nav nav-tabs'>
                         <li class='nav-item'><a class='nav-link' href='#'>Personal CV</a></li>
                         <li class='nav-item'><a class='nav-link' href='#'>Commercial Projects</a></li>
                         <li class='nav-item'><a class='nav-link' href='#'>Personal Projects</a></li>
                     </ul>
                 </nav>
-                <div class='bg-faded'>
-                    <div class='p-4'>
-                        <h1>{{ page.title }}</h2>
+                </small>
+                <div class='container'>
+                <div class='row text-white bg-primary'>
+                    <div class='col-md-12 m-4'>
+                        <h1 class='display-2'>{{ page.title }}</h2>
                         <p class='lead'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
                     </div>
+                </div>
                 </div>
             </header>
 
             <section id='contents'>
                 <div class='container'>
-                    {% for i in (1..10) %}
-                        <div class='w-75 p-4'>
-                            <h2>Post #{{ i }}</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                    <div class='row'>
+                        <div class='col-md-9 card m-3'>
+                            {% for i in (1..10) %}
+                                <div class='card-block'>
+                                    <h2>Post #{{ i }}</h2>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                                </div>
+                            {% endfor %}
                         </div>
-                    {% endfor %}
+                    </div>
                 </div>
             </section>
 
             <section class='footer' id='footer'>
                 <div class='container'>
+                    <div class='row'>
+                        <div class='col-md-5 m-0'>
+                            <hr/>
+                        </div>
+                        <div class='col-md-2 text-center'>
+                            <small>@2017 aikdev.co.uk</small>
+                        </div>
+                        <div class='col-md-5 m-0'>
+                            <hr/>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>
