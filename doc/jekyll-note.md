@@ -1,4 +1,6 @@
 # Github pages tips
+## Jekyll Cheatsheet
+http://jekyll.tips/jekyll-cheat-sheet/
 ## Liquid syntax
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
