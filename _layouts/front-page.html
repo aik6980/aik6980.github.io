@@ -26,29 +26,35 @@
 
             <section id='features'>
                 <div class='container'>
-                    <div class="card-deck-wrapper">
+                    <div class="card-deck-wrapper m-4">
                         <div class="card-group">
                             <div class="card card-inverse card-success text-center">
                                 <div class="card-block">
                                     <h4 class="card-title">Projects and CV</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                                    <a href="#" class="btn btn-outline-danger">under construction</a>
                                 </div>
                             </div>
                             <div class="card card-inverse card-primary text-center">
                                 <div class="card-block">
-                                    <h4 class="card-title">Life Blog</h4>
+                                    <h4 class="card-title">Blog page</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                    <a href="/pages/blog-page" class="btn btn-primary">click here</a>
+                                    <a href="/pages/blog-page" class="btn btn-block btn-primary">click here</a>
                                 </div>
                             </div>
-                            <div class="card card-inverse card-info text-center">
-                                <h4 class="card-title">Dev Blog</h4>
+                            <div class="card card-inverse card-warning text-center">
+                                <div class="card-block">
+                                    <h4 class="card-title">About</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                                    <a href="#" class="btn btn-outline-danger">under construction</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div class='container'>
-                    <div id="carousel0" class="carousel slide m-4" data-ride="carousel">
+                    <div id="carousel0" class="carousel slide m-4 bg-faded" data-ride="carousel">
                         {% assign num_items = 3 %}
                         <ol class="carousel-indicators">
                             {% for i in (1..num_items) %}
@@ -61,13 +67,15 @@
                                 <img class="img-fluid mx-auto" src="https://placehold.it/750x250" />
                             </div>
                         {% endfor %}
+                        <a class="carousel-control-prev" href="#carousel0" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true" />
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carousel0" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true" />
+                            <span class="sr-only">Next</span>
+                        </a>
                     </div>
-                </div>
-            </section>
-
-            <section id='about'>
-                <div class='container'>
-                    
                 </div>
             </section>
 
