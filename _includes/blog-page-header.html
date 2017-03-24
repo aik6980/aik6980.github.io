@@ -1,0 +1,42 @@
+<header class='container'>
+    {% comment %}
+    <nav class='navbar navbar-toggleable-md navbar-light'>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <h1 class='navbar-brand'><a class='nav-link' href='/'>AikDev-Home</a></h1>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+        <ul class='navbar-nav nav-tabs'>
+            <li class='nav-item'><a class='nav-link' href='#'>Personal CV</a></li>
+            <li class='nav-item'><a class='nav-link' href='#'>Commercial Projects</a></li>
+            <li class='nav-item'><a class='nav-link' href='#'>Personal Projects</a></li>
+            <li class='nav-item'><a class='nav-link' href='#'>LifeBlog</a></li>
+            <li class='nav-item'><a class='nav-link' href='#'>DevBlog</a></li>
+        </ul>
+        </div>
+    </nav>
+    {% endcomment %}
+    <div class="container">
+        <div class='row'>
+            <div class='col-md-3 my-1'>
+                <h4><a class="text-muted" href='/'>AikDev-Home</a></h4>
+            </div>
+            <div class='col-md-9'>
+                <nav role="navigation">
+                    <ul class='nav nav-tabs justify-content-end'>
+                        <li class='nav-item'><a class='nav-link active' data-toggle="tab" href='#'>LifeBlog</a></li>
+                        <li class='nav-item'><a class='nav-link' data-toggle="tab" href='#'>DevBlog</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class='container'>
+    <div class='row text-white bg-primary'>
+        <div class='col-md-12 my-4'>
+            <h1 class='display-2'>{{ page.title }}</h2>
+            <p class='lead'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+        </div>
+    </div>
+    </div>
+</header>

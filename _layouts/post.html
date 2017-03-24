@@ -1,4 +1,5 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,26 +11,8 @@
     </head>
     <body>
         <div class='wrapper'>
-            <header class='container'>
-                <small>
-                <nav class='navbar navbar-toggleable-md'>
-                    <h5 class='nav-brand'><a class='nav-link' href='/'>AikDev-Home</a></h5>
-                    <ul class='nav nav-tabs'>
-                        <li class='nav-item'><a class='nav-link' href='#'>Personal CV</a></li>
-                        <li class='nav-item'><a class='nav-link' href='#'>Commercial Projects</a></li>
-                        <li class='nav-item'><a class='nav-link' href='#'>Personal Projects</a></li>
-                    </ul>
-                </nav>
-                </small>
-                <div class='container'>
-                <div class='row text-white bg-primary'>
-                    <div class='col-md-12 m-4'>
-                        <h1 class='display-2'>Blog post</h2>
-                        <p class='lead'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    </div>
-                </div>
-                </div>
-            </header>
+            <!-- blog header -->
+            {% include blog-page-header.html %}
 
             <section id='contents'>
                 <div class='container'>
@@ -41,6 +24,14 @@
                                 <div class='mt-5'>
                                     {{ content }}
                                 </div>
+                            </div>
+                        </div>
+                        <div class='col-md-2 m-3'>
+                            <div class='text-center'>
+                                <img class="rounded-circle mt-3" src="https://placehold.it/96x96" />
+                                 <p class='m-1'><small>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                                </small></p>
                             </div>
                         </div>
                     </div>
