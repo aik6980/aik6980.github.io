@@ -5,7 +5,10 @@ categories: blog
 tags: [blog]
 ---
 
-A collection of random thoughts and those small useful things to share, where, One day some of these idea might spark into a full post
+A collection of random thoughts and those small useful things to share, where, one day some of these idea might spark into a full post
+
+##### 23/03/17 Goat milk in your coffee
+Try goat milk in your morning coffee, it tastes great!
 
 ##### 09/03/17 Taking a bath
 There is no rule about how many times you can come out and go back into your tub during one hot bath. Try it, come out and get some drinks, then go back and enjoy your bath for 2nd round. 

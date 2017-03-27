@@ -1,4 +1,6 @@
 # Github pages tips
+## Jekyll Cheatsheet
+http://jekyll.tips/jekyll-cheat-sheet/
 ## Liquid syntax
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
@@ -30,11 +32,15 @@ https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-git
 https://help.github.com/articles/setting-up-an-apex-domain/
 
 # Project: Bootstrap
-updated 12/03/17
+updated 20/03/17
 
 - **[wip]** Create web layout from scratch using Bootstrap
 - Better learn more about HTML5 too, https://www.w3schools.com/tags/default.asp
 - Bootstrap Ref, https://v4-alpha.getbootstrap.com/content/typography/
+
+### Bootstrap container explained
+http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/
+
 
 ## Liquid syntax
 ### Nav menu sorting
