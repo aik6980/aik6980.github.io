@@ -35,5 +35,5 @@ gems:
  - jekyll-paginate
 
 # GitHub
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 repository: aik6980/aik6980.github.io
