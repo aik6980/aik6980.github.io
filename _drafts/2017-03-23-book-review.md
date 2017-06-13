@@ -27,6 +27,10 @@ ISBN-13: 978-1572246959
 <https://www.amazon.co.uk/Buddhas-Brain-Practical-Neuroscience-Happiness/dp/1572246952>
 
 ## Reading
+- The Courage to be Disliked, Ichiro Kishimi/Fumitake Koga
+<http://www.saroopbook.com/book/dare-to-be-hated-summary/>
+- If Cats Were to Disappear from the Earth  
+<http://www.booksfromjapan.jp/publications/item/3310-if-cats-were-to-disappear-from-the-earth>
 - Norwegian Woods, H. Murakami
 - Colorless, H. Murakami
 - Professor+Housekeeper
