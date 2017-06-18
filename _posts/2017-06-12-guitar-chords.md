@@ -1,3 +1,8 @@
+---
+layout: post
+title: "About Pop Music"
+categories: blog
+---
 ## Thai
 - บีบมือ Niece  <http://chordtabs.in.th/song.php?song_id=823&chord=yes>
 - ไปพัก Niece  <http://chordtabs.in.th/song.php?song_id=16398&chord=yes>
