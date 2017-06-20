@@ -20,6 +20,7 @@ categories: blog
 - จากคนอื่นคนไกล มาช่า  <http://chordtabs.in.th/song.php?song_id=12227&chord=yes>
 - กุญแจที่หายไป Palmy  <http://chordtabs.in.th/song.php?song_id=380&chord=yes>
 - ถ้าเธอจะไป แพรว คณิตกุล  <http://chordeasyeasy.blogspot.co.uk/2016/08/tar-ter-ja-pai-preaw.html>
+- ระหว่างเราสองคน จิรากร สมพิทักษ์ <http://chordtabs.in.th/song.php?song_id=11652&chord=yes>
 ## Japanese
 - Hanamizuki - Hitoto Yo  
 <http://kizimoto.blogspot.co.uk/2011/07/ost-hanamizuki-hitoto-yo-chord.html>  
