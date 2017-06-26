@@ -22,7 +22,7 @@ Relaxation is an important key as well, I like reading books and listening to so
 ### Creative Assembly (2012 - Present)
 Working as a Graphic programmer for Total War franchises. Experienced in PC game development using DirectX and OpenGL 
 #### Working Titles
-- TW: Unannounced projects 
+- TW: WARHAMMER 2 (announced 2017) 
 - TW: WARHAMMER (2016)
 - TW: Arena (MOBA)
 - TW: Attila (2015)
@@ -54,7 +54,7 @@ Worked in a team of 7 as a principle programmer on an indie title called 'RISE'.
 - Ubisoft Reflections 2012 Jam, best multiplayer game. Using HTML5 Canvas
 - Participating in Global Game Jam 2016
 ### Achievement in Life and Well being
-- 106km Isle of Wight Walking Challenge (Creative Assembly, 2017) 
+- 106km Isle of Wight Full Island Walking Ultra Challenge (Creative Assembly, 2017) 
 - 64km South Downs Charity Walking Challenge (Creative Assembly, 2016) 
 - Table Tennis Player Awards, Horsham Table Tennis Club (2014)
 - Participating in Warrior Run for Charity (Creative Assembly, 2015)
@@ -65,7 +65,7 @@ Received a number of awards for an outstanding academic performance during the c
 - First Class Honours Student (2009)
 - A.D.D McKay Senior Prize (2009)
 - Overseas Achiever Scholarship (2008)
-- Ede & Ravenscroft Prize (2009)
+- Ede & Ravenscroft Prize (2008)
 - Sony Playstation2 Linux Game Award, 1st place (2007)
 - David Potter Memorial Prize (2006)
 

@@ -37,5 +37,17 @@ An interesting Crime/Investigation novel from Keigo Higashino
 ## Fractured: A Novel
 
 
+## Reading
+- The Courage to be Disliked, Ichiro Kishimi/Fumitake Koga
+<http://www.saroopbook.com/book/dare-to-be-hated-summary/>
+- If Cats Were to Disappear from the Earth  
+<http://www.booksfromjapan.jp/publications/item/3310-if-cats-were-to-disappear-from-the-earth>
+- Norwegian Woods, H. Murakami
+- Colorless, H. Murakami
+- Professor+Housekeeper
+- The confession
+- Malice
+- Fractured
+
 ---
 <small>http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html</small>
