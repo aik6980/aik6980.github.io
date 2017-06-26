@@ -26,5 +26,16 @@ ISBN-10: 1572246952
 ISBN-13: 978-1572246959  
 <https://www.amazon.co.uk/Buddhas-Brain-Practical-Neuroscience-Happiness/dp/1572246952>
 
+## If cat disappeared from the world
+
+## Malice
+<small>updated 25/05/2017</small>
+
+An interesting Crime/Investigation novel from Keigo Higashino
+
+
+## Fractured: A Novel
+
+
 ---
 <small>http://www.lifehack.org/articles/lifestyle/10-benefits-reading-why-you-should-read-everyday.html</small>

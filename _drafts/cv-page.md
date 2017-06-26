@@ -53,7 +53,7 @@ Worked in a team of 7 as a principle programmer on an indie title called 'RISE'.
 - Franco Jam 2014, winner 3rd place. Using Unity
 - Ubisoft Reflections 2012 Jam, best multiplayer game. Using HTML5 Canvas
 - Participating in Global Game Jam 2016
-### Achievement in sports
+### Achievement in Life and Well being
 - 106km Isle of Wight Walking Challenge (Creative Assembly, 2017) 
 - 64km South Downs Charity Walking Challenge (Creative Assembly, 2016) 
 - Table Tennis Player Awards, Horsham Table Tennis Club (2014)
