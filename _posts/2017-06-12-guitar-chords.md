@@ -22,6 +22,7 @@ categories: blog
 - ถ้าเธอจะไป แพรว คณิตกุล  <http://chordeasyeasy.blogspot.co.uk/2016/08/tar-ter-ja-pai-preaw.html>
 - ระหว่างเราสองคน จิรากร สมพิทักษ์ <http://chordtabs.in.th/song.php?song_id=11652&chord=yes>
 - เป็นทุกอย่าง Room 39 <http://chordtabs.in.th/song.php?song_id=22847&chord=yes>
+- เมื่อวาน ปราโมทย์ ปาทาน <http://chordtabs.in.th/song.php?song_id=22011&chord=yes>
 ## Japanese
 - Hanamizuki - Hitoto Yo  
 <http://kizimoto.blogspot.co.uk/2011/07/ost-hanamizuki-hitoto-yo-chord.html>  
@@ -29,7 +30,9 @@ categories: blog
 - Christmas Eve - Tatsuro Yamashita
 Capo 4, Key G
 
-
+## Misc
+- Deserts Chang - Baobei <https://www.youtube.com/watch?v=gt7ZO5YAMuM>  
+<https://tabs.ultimate-guitar.com/m/misc_unsigned_bands/deserts_chang_-_baobei_crd.htm>
 
 
 
