@@ -29,6 +29,7 @@ categories: blog
 <http://www.lyrictabs.com/Dogwood-Flower-(Hanamizuki)-Chords-Lyrics-Hayley-Westenra>  
 - Christmas Eve - Tatsuro Yamashita
 Capo 4, Key G
+- Butterfly (Digimon Op) <https://tabs.ultimate-guitar.com/w/wada_kouji/butterfly_crd.htm>
 
 ## Misc
 - Deserts Chang - Baobei <https://www.youtube.com/watch?v=gt7ZO5YAMuM>  
