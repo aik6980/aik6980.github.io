@@ -4,6 +4,7 @@ title: "About Pop Music"
 categories: blog
 ---
 ## Thai
+- รักไม่เข้าข้าง The Dey  <http://chordtabs.in.th/song.php?song_id=19601&chord=yes>
 - บีบมือ Niece  <http://chordtabs.in.th/song.php?song_id=823&chord=yes>
 - ไปพัก Niece  <http://chordtabs.in.th/song.php?song_id=16398&chord=yes>
 - ไม่เดียงสา - Big Ass  <http://www.chordzaa.com/chord/คอร์ด-เนื้อเพลง-ไม่เดียงสา-BigAss.323.html>
