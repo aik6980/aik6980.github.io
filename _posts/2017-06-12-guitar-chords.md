@@ -4,6 +4,7 @@ title: "About Pop Music"
 categories: blog
 ---
 ## Thai
+- ขอเวลาลืม - Aun Feeble Heart Feat.Ouiai <http://www.chordzaa.com/chord/คอร์ด-เนื้อเพลง-ขอเวลาลืม-AunFeebleHeartFeatOuiai.329.html>
 - รักไม่เข้าข้าง The Dey  <http://chordtabs.in.th/song.php?song_id=19601&chord=yes>
 - บีบมือ Niece  <http://chordtabs.in.th/song.php?song_id=823&chord=yes>
 - ไปพัก Niece  <http://chordtabs.in.th/song.php?song_id=16398&chord=yes>
