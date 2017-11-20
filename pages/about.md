@@ -1,7 +1,7 @@
 ---
 layout: about-page
 title: About
-permalink: /about/
+#permalink: /about/
 ---
 ## About Aikdev
 Aikdev is my personal website I use, in order to learn more about web development. It also acts as the main platform for sharing my thoughts and knowledge in general.

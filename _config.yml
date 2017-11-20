@@ -22,8 +22,8 @@ kramdown:
     input: GFM
 
 # Pagination
-paginate: 3
-permalink: none
+#paginate: 3
+#permalink: none
 
 # Exceprt
 excerpt_separator: "<!--more-->"
