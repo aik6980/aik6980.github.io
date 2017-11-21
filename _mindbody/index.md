@@ -20,7 +20,7 @@
   Praeterea iter est quasdam res quas ex communi.</h1>
         </div>
 
-        <div class="container card bg-light w-75" style='margin-top:-5vh; min-height:75vh;'>
+        <div class="container card border-0 rounded bg-white w-75" style='margin-top:-5vh; min-height:75vh; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.175);'>
             <section class='container'>
                 <div class='row'>
                     <div class='text-center mx-auto col-md-10 m-3'>
