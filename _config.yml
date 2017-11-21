@@ -25,6 +25,13 @@ kramdown:
 #paginate: 3
 #permalink: none
 
+# Collections
+collections:
+    mindbody:
+        output: true
+    mindbody-posts:
+        output: true
+
 # Exceprt
 excerpt_separator: "<!--more-->"
 
