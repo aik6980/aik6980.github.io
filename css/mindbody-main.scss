@@ -16,12 +16,42 @@ body {
 
 @import "bootstrap4/bootstrap";
 
+html {
+    font-size: $font-size-base;
+  }
+  
+  @include media-breakpoint-down(sm) {
+    html {
+      font-size: $font-size-base * 0.5;
+    }
+  }
+  
+  @include media-breakpoint-down(md) {
+    html {
+      font-size: $font-size-base * 0.75;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: $font-size-base;
+    }
+  }
+
 #title {
     min-height: 30vh;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
     background-size: 100%;
     background-position: center;
+    //filter: blur(2px);
+
+    h1 {
+        @extend .display-4;
+        @include media-breakpoint-down(sm) {
+            font-size: $display4-size * 0.75;
+        }
+    }
 }
 
 #content {
@@ -33,18 +63,21 @@ body {
     }
 
     p {
-        line-height: 2rem;
+        line-height: $spacer * 2.0;
         margin-bottom: 1.5rem;
     }
 
     img {
-        @extend .img-fluid;
+        //@extend .col-md-12;
+        //min-width: 80vw;
+        //left:50%;
+        //transform: translateX(-50%); 
         margin-left: -25%;
         margin-right: -25%;
         max-width: 150%;
         border-color: lightgrey;
         border-style: solid;
-        border-left-width: 1vw;
-        border-right-width: 1vw;
+        border-left-width: 20%;
+        border-right-width: 20%;
     }
 }
