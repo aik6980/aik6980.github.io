@@ -14,7 +14,7 @@ If you practise relaxation, no energy will be wasted. You will be very active, a
 ## Benefits
 The pleasant and exhilarating feeling can only be realised by those who can successfully do this Asana. Words cannot adequately describe the feelings. Every one of you should enjoy it. If you are tired from a hard work, perform this Asana for 5 minutes. You will be fit again to continue your hard work with the same vigour. This is a blessing for all hard workers.
 
-![savasana1](photo/savasana.jpg)
+![savasana1](photo/savasana1.jpg)
 
 ## References
 http://www.dlshq.org/messages/relaxation.htm
