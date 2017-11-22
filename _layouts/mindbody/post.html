@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'/>
+        
+        <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+
+        {% include mindbody/stylesheets.html %}
+    </head>
+    <body>
+        <header>
+            {% include mindbody/header-nav.html %}
+        </header>
+        <div id='title' class='w-100 bg-dark d-flex align-items-center justify-content-center border text-white' style='background-image: url({{page.title-img}}), linear-gradient(lightgrey, grey, lightgrey);'> 
+            <h1 class="d-inline-block text-truncate display-4" style="max-width:80vw;">{{page.title}}</h1>
+        </div>
+
+        <div class="container card border-0 rounded bg-white w-75" style='margin-top:-5vh; min-height:75vh; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.175);'>
+            <div class='row'>
+                <div id="content" class='text-center mx-auto col-md-9'>{{content}}</div>
+            </div>
+        </div>
+
+        <div class='w-100 bg-dark d-flex align-items-center justify-content-center border text-white' style='min-height:25vh; margin-top:-2vh;'>
+                <div class='text-center'>
+                    <h5 class='pt-3'>Wittawat <b>Aik</b> Keawcharoen</h5>
+                    <img class="rounded-circle" style='border-color:white; border-style: solid; max-width:72px;' src="photo/aik-avatar.jpg" />
+                    <p class='mx-auto m-1 col-md-4'><small>
+                            It is very important to keep a good balance between mind and body. I'm a fluent Yoga practitioner, 
+                            this is where I learn to be mindful and develop my self-awareness. I like doing long distance hiking as a form of meditation. Going outdoors is also a good way to improve my diet and keeping fit.
+                    </small></p>
+                </div>
+        </div>
+
+        {% include footer.html %}
+
+        <!-- JavaScript: placed at the end of the document so the pages load faster -->
+        {% include scripts.html %}
+    </body>
+</html>

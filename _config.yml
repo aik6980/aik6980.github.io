@@ -27,9 +27,9 @@ kramdown:
 
 # Collections
 collections:
-    mindbody:
+    mb:
         output: true
-    mindbody-posts:
+    mb-posts:
         output: true
 
 # Exceprt
