@@ -4,6 +4,8 @@
 @charset "utf-8";
 @import "bootstrap4/bootstrap";
 
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+
 $header-colour: $gray-200;
 $header-text-colour: darken($color: $header-colour, $amount: 50);
 
@@ -23,14 +25,18 @@ header {
     }
 
     h1 {
+        @extend .display-1;
         @extend .text-center;
-        color: $header-text-colour;
-        border-radius: 100%;
-        background-color: transparentize($header-colour, 0.75);
-        padding: 20vw;
+        color: transparentize($header-text-colour, 0.9);
+        //border-radius: 50%;
+        //background-color: transparentize($header-colour, 0.75);
+        
+        font-family: 'Love Ya Like A Sister', cursive;
 
         &:hover {
-            color: lighten($color: $header-text-colour, $amount: 100);
+            //color: lighten($color: $header-text-colour, $amount: 100);
+            transform: scale(1.1);
+            color: transparentize($header-text-colour, 0.1);
         }
     }
 }
