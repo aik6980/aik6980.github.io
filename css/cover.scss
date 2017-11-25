@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+@import "bootstrap4/bootstrap";
+
+$header-colour: $gray-200;
+$header-text-colour: darken($color: $header-colour, $amount: 50);
+
+header {
+    height: 100%;
+    min-height: 100vh;
+    background-color: $header-colour;
+    //background: url(../photo/cover_background.gif) no-repeat center center fixed; 
+    background-size: cover;
+
+    h1 {
+        @extend .display-1;
+        @extend .text-center;
+        color: $header-text-colour;
+
+        &:hover {
+            color: lighten($color: $header-text-colour, $amount: 200);
+        }
+    }
+}

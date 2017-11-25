@@ -7,81 +7,79 @@
         
         <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
-        {% include stylesheets.html %}
+        <link rel='stylesheet' href='/css/cover.css'/>
     </head>
     <body>
-        <div>
-            <header>
-                <h1>AikDev</h1>
-                <h1>Explore</h1>
-            </header>
+        <header>
+            <h1>AikDev</h1>
+            <h1>Explore</h1>
+        </header>
 
-            <section id='features'>
-                <div class='container p-4'>
-                    <div class="card-deck-wrapper">
-                        <div class="card-group">
-                            <div class="card card-inverse card-success text-center">
-                                <div class="card-block">
-                                    <h4 class="card-title">Projects and CV</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                    <a href="pages/project-page" class="btn btn-block btn-success">click here</a>
-                                </div>
+        <section id='features'>
+            {% comment %}
+            <div class='container p-4'>
+                <div class="card-deck-wrapper">
+                    <div class="card-group">
+                        <div class="card card-inverse card-success text-center">
+                            <div class="card-block">
+                                <h4 class="card-title">Projects and CV</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                                <a href="pages/project-page" class="btn btn-block btn-success">click here</a>
                             </div>
-                            <div class="card card-inverse card-primary text-center">
-                                <div class="card-block">
-                                    <h4 class="card-title">Blog page</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                                    <a href="/pages/blog-page" class="btn btn-block btn-primary">click here</a>
-                                </div>
+                        </div>
+                        <div class="card card-inverse card-primary text-center">
+                            <div class="card-block">
+                                <h4 class="card-title">Blog page</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                                <a href="/pages/blog-page" class="btn btn-block btn-primary">click here</a>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
-                {% comment %}
-                <div class='container'>
-                    <div id="carousel0" class="carousel slide bg-faded" data-ride="carousel">
-                        {% assign num_items = 3 %}
-                        <ol class="carousel-indicators">
-                            {% for i in (1..num_items) %}
-                                <li data-target="#carousel0" data-slide-to="{{i-1}}" {% if i==1 %}class="active"{% endif %} />
-                            {% endfor %}
-                        </ol>
-                        <div class="carousel-inner" role="listbox">
+            <div class='container'>
+                <div id="carousel0" class="carousel slide bg-faded" data-ride="carousel">
+                    {% assign num_items = 3 %}
+                    <ol class="carousel-indicators">
                         {% for i in (1..num_items) %}
-                            <div class="carousel-item {% if i==1 %}active{% endif %}">
-                                <img class="img-fluid mx-auto" src="https://placehold.it/750x250" />
-                            </div>
+                            <li data-target="#carousel0" data-slide-to="{{i-1}}" {% if i==1 %}class="active"{% endif %} />
                         {% endfor %}
-                        <a class="carousel-control-prev" href="#carousel0" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true" />
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#carousel0" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true" />
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                    {% for i in (1..num_items) %}
+                        <div class="carousel-item {% if i==1 %}active{% endif %}">
+                            <img class="img-fluid mx-auto" src="https://placehold.it/750x250" />
+                        </div>
+                    {% endfor %}
+                    <a class="carousel-control-prev" href="#carousel0" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true" />
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel0" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true" />
+                        <span class="sr-only">Next</span>
+                    </a>
                 </div>
-                {% endcomment %}
-            </section>
+            </div>
+            {% endcomment %}
+        </section>
 
-            <section id='footer'>
-                <div class='container mt-5 mx-auto'>
-                    <div class='row'>
-                        <div class='col-md-5 m-0'>
-                            <hr/>
-                        </div>
-                        <div class='col-md-2 text-center'>
-                            <small>@2017 aikdev.co.uk</small>
-                        </div>
-                        <div class='col-md-5 m-0'>
-                            <hr/>
-                        </div>
+        <section id='footer'>
+            <div class='container mt-5 mx-auto'>
+                <div class='row'>
+                    <div class='col-md-5 m-0'>
+                        <hr/>
+                    </div>
+                    <div class='col-md-2 text-center'>
+                        <small>@2017 aikdev.co.uk</small>
+                    </div>
+                    <div class='col-md-5 m-0'>
+                        <hr/>
                     </div>
                 </div>
-            </section>
-        </div>
+            </div>
+        </section>
 
         <!-- JavaScript: placed at the end of the document so the pages load faster -->
         {% include scripts.html %}
