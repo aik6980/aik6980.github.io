@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'/>
+        
+        <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+
+        {% include mindbody/stylesheets.html %}
+    </head>
+    <body>
+        <div class='row'>
+            <div class='card col-7 h-75 d-flex align-items-center justify-content-center' style='min-height:75vh;'>
+                <h1>Mind•Body</h1>
+                <p class='lead text-center p-2'>When you discover something that nourishes your soul and brings joy, care enough to make room for it in your life.</p>
+            </div>
+            
+            <div class='row col-5'>
+                    <div class='card w-100 d-flex align-items-center justify-content-center' style='max-height:20vh;'>
+                        Post
+                    </div>
+                    <div class='card w-100 d-flex align-items-center justify-content-center' style='max-height:20vh;'>
+                            Post
+                    </div>
+                    <div class='card w-100 d-flex align-items-center justify-content-center' style='max-height:20vh;'>
+                            Post
+                    </div>
+                    <div class='card w-100 d-flex align-items-center justify-content-center' style='max-height:20vh;'>
+                            Post
+                    </div>
+                    <div class='card w-100 d-flex align-items-center justify-content-center' style='max-height:20vh;'>
+                            Post
+                    </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+
+        <!-- JavaScript: placed at the end of the document so the pages load faster -->
+        {% include scripts.html %}
+    </body>
+</html>
