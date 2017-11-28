@@ -1,4 +1,6 @@
 
+## jquery
+https://pressupinc.com/blog/2013/06/styling-individual-characters-in-html-strings-with-jquery/
 ## sources
 ### cover background
 UK
