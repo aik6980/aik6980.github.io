@@ -76,8 +76,8 @@ Trained and mentored 2nd year students from Computer Games Technology Course in 
 
 ## Yokogawa (Thailand) Ltd. - Bangkok, Thailand
 ### System Engineer (2002 to 2005)
-Develop highly customizable software for field instruments, control systems, safety systems and production management systems. Lead a small team of 3-5 people, taking care of the project from Prototype until On-site startup.
+Develop highly customizable software for field instruments, control systems, safety systems and production management systems. Lead a small team of 3-5 engineers, taking care of the project from Purchasing, Prototype until On-site startup.
 
 #### Accomplishments:
-- Conceptualized, planned and developed the application closely with customers from many countries. 
+- Conceptualized, planned and developed projects for several kinds of manufacturing process closely with customers from many different countries. 
 - Testing and Debugging software on-site overseas. 
