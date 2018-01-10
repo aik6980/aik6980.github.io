@@ -1,4 +1,4 @@
-<small>[updated 07/01/18]</small>
+<small>[updated 07/01/18 -- p02]</small>
 # WITTAWAT KEAWCHAROEN 
 ## Software Developer | Graphic Programmer | Rendering Engineer
 - Senior Programmer with a track record of multiple awards AAA Game Development, Working on several In-house Graphic Engines optimizing for Real-time Simulation and Rendering, experienced in both PC and Console Game Development.
@@ -64,7 +64,7 @@ Develop and work with several in-house rendering engines for multiple Ubisoft AA
 Research and development on several game ideas using Real-world data for Project My World. The game is supposed to be a sandbox, an open-world based on real geographic data (similar to Google Earth), developed using C# and .NET Framework.
 
 #### Accomplishments:
-- Prototyped several game ideas, which is based on real-world data collecting/streaming from the internet. Using an in-house engine for data representation.
+- Prototyped several small games for the platform, which is based on real-world data collecting/streaming from the internet. Using an in-house engine for data representation.
 
 ## University of Abertay Dundee - Dundee, UK
 ### Associate Instructor (Part-time 2006 to 2009)
@@ -76,8 +76,8 @@ Trained and mentored 2nd year students from Computer Games Technology Course in 
 
 ## Yokogawa (Thailand) Ltd. - Bangkok, Thailand
 ### System Engineer (2002 to 2005)
-Develop highly customizable software for field instruments, control systems, safety systems and production management systems. Lead a small team of 3-5 engineers, taking care of the project from Purchasing, Prototype until On-site startup.
+Develop highly customizable software for field instruments, control systems, safety systems and production management systems. Lead a small team of 3-5 engineers, taking care of the project in full cycle from Purchasing, Prototype until On-site startup.
 
 #### Accomplishments:
 - Conceptualized, planned and developed projects for several kinds of manufacturing process closely with customers from many different countries. 
-- Testing and Debugging software on-site overseas. 
+- Testing and Debugging software on-site, overseas customer support.
