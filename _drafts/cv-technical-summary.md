@@ -49,9 +49,9 @@ Develop, maintain and support our in-house Graphic Engine crafted specifically f
 Develop and work with several in-house rendering engines for multiple Ubisoft AAA open-world game projects, which have been released cross-platform eg. PS3, XBOX360 and PC. Have experienced working remotely in collaboration with multiple studios across many countries.
 
 #### Release Titles
-- The Crew (2013), in collaboration with Ivory Tower, Lyon.
-- Watchdog (2013), in collaboration with Ubisoft Montreal
-- Ghost Recon: Future Soldier (2012), in collaboration with Ubisoft Paris
+- The Crew (2013), in collaboration with Ivory Tower Studio, Lyon.
+- Watchdog (2013), in collaboration with Ubisoft Montreal Studio. 
+- Ghost Recon: Future Soldier (2012), in collaboration with Ubisoft Paris Studio.
 - DRIVER: San Francisco (2011)
 
 #### Accomplishments:

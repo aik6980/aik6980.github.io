@@ -9,3 +9,8 @@
 - I have vision, 
 - Have an experience handling project with a small team
 - Lead most of the indie, game jam projects
+
+## Personal Dev Quotes
+"A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness. -- Albert Einstein"
+
+

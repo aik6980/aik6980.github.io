@@ -3,10 +3,11 @@
 
 ## Awards and Volunteerism
 ### Mentoring at Coder Dojo, Horsham (2015 - Present)
-Teaching programming to young people and their parents at the local school over the weekend. The projects included Game Development using Python, an interactive software using Raspberry Pi and Web development.
+Voluntarily teach Programming to groups of young people and their parents at the local school over the weekend. The projects included Game Development using Python, an interactive software using Raspberry Pi and Web development.
 ### Project: HELP The Game, WARCHILD UK (2016)
-Worked in a team of 7 as a principle programmer on an indie title called 'RISE'. Our Rhythm-Based video game represented Creative Assembly for WARCHILD Charity.
+Worked in a team of 7 as a principle programmer on an indie title called 'RISE'. The idea is to create a Rhythm-Based video game, features Beat Detection technology using FFT techniques where users can use their own contents to play. The game is part of a collaboration between SEGA and WARCHILD Charity, and we are The Creative Assembly's representatives.
 ### Volunteering at SprungDigi, Horsham Digital Arts (2015)
+Worked as The Creative Assembly representatives with Horsham District Council to help raising awareness on how to use 
 ### Registered as a STEM Ambassador (2012 - Present)
 ### Achievement at several Game Jam events
 - Creative Assembly, Franco Jam 2015, winner 1st place. Using HAXE Flixel
