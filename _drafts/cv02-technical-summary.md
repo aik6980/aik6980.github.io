@@ -2,7 +2,7 @@
 # WITTAWAT KEAWCHAROEN 
 ## Software Developer | Graphic Programmer | Rendering Engineer
 - Senior Programmer with a track record of multiple awards AAA Game Development, Working on several In-house Graphic Engines optimizing for Real-time Simulation and Rendering, experienced in both PC and Console Game Development.
-- Have a good knowledge about Agile and Project Management, have experienced as a Team Lead.
+- Have a good knowledge about Agile and Project Management, have experienced as a Team Lead where we have to develop, maintain and support several large projects in parallel.
 - Well established in Research and Development strategy, very self driven and completely autonomous.
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 
