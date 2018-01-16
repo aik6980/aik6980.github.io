@@ -11,7 +11,7 @@
 > c/c++, oop, data-driven, real-time application, high-performance, resource-management, multi-processor development, win32, mac, visual-studio, stl, boost, large-scale codebase, generic-programming
 
 #### GPU Development:
-> direct3d, opengl, multi-gpu application, crossfire/sli, gpu-programming, shaders, gpgpu, graphic-pipeline, physics-simulation, hlsl, glsl, renderdoc, gpa
+> direct3d, opengl, multi-gpu application, crossfire/sli, gpu-programming, shaders, gpgpu, compute-shader, graphic-pipeline, physics-simulation, hlsl, glsl, renderdoc, gpa
 
 #### Other languages, technologies and protocols:
 > game-development, tools-development, python, xml 
