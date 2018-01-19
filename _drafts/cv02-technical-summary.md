@@ -32,14 +32,15 @@
 # Work Experience
 ## The Creative Assembly - Horsham, UK 
 ### Graphic Programmer (2012 to Present)
-Develop, maintain and support our in-house Graphic Engine crafted specifically for Total War Series. The renowned PC Game series featured a huge over world strategy map, and large battlefield simulation with multiple level of details. The project is developed for Windows PC using C++ with DirectX API.
+Develop, maintain and support our in-house Graphic Engine crafted specifically for Total War Series. The renowned PC Game series featured a huge over world strategy map, and large battlefield simulation with multiple level of details. The project is developed for Windows PC using C++ with DirectX API. (With one special OpenGL project MacOSX Port of TW:ROME 2 in 2014)
 
 #### Release Titles
 - TW:WARHAMMER 2 (2017), TW:WARHAMMER (2016)
 - TW:Attila (2015), TW:ROME 2 (2013), TW:ARENA (MOBA)
 
 #### Accomplishments:
-- Complete re-engineered the Total War VFX System/Tools for performance and memory usage optimization. This work has been well established since TW:ROME 2. Many features has been implemented including an introduction GPU Particles for first time to the series, GPU Sorting and OIT Rendering Pipeline.
+- Research and development of the modern Multiple GPU Rendering solutions for Direct3D 12
+- Complete re-engineered the Total War VFX System/Tools for performance and memory usage optimization. This work has been well established since TW:ROME 2. Many features has been implemented including an introduction of GPU Particle Rendering Pipeline for first time to the series, including GPU Physic Simulation and GPU Sorting. Other interesting optimization technique, for Transparency object using OIT Rendering Pipeline.
 - Work closely with Production regarding Project Scheduling, help leading the Graphic team from time to time.
 - Design, Testing and deployment of Multiple GPU Rendering Techniques on both AMD Crossfire and NVIDIA SLI. 
 - Participated in design of almost every areas of Total War Graphic Engine and Tools.
