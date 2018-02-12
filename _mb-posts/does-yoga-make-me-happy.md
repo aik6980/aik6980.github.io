@@ -26,3 +26,56 @@ author: aik
         - People smiling to you
     - Collect and create a bigger happiness
 
+---
+"Does my happiness mainly come from practicing Yoga?" This is a very interesting question I got asked recently, and it makes me rethink about myself. While my life mainly hasn't changed much in the past five years, but I strongly believed that I've become a happier person than I have ever been.
+
+Let's start form the top, shall we?
+
+As far as I remembered, I am always a happy person generally. I was born as a happy child, surrounded by well cared and loving family. We've never been rich but my life is definitely good in general. I went to a well known University, graduated, got a job as a Game Developer which I always want to be and I still enjoy doing it until these days. 
+
+Hey, everything sounds so good Aik! Do you think you can be any happier than this?  
+
+Well, let see if I can answer that. I think by that point in time, I have achieve a well big chunk of happiness by got accepted and well validated by the society. I got enough money so I'm happy because I can buy those new shiny gadgets. I lived my life making sure people will love me, and I keep improving myself so I can be useful and be... accepted.
+
+That surely sounds great, right? Building your social status while being useful.
+
+But...really, sometimes I don't even know who is really me?
+
+Around five years ago, my life style has changed drastically. From  aperson who spent most of the time inside, Ive adopted a very active life style, and started explore the world around me.
+
+I went out running, losing half of my body weight, I have become pretty fit I can play better at any sports than I've ever done before. 
+
+But... I still feel I'm under a lot of emotions sometimes. If I can do these things, I should be happy, right? 
+
+After that, I started going out walking long distance. As far as possible from other human beings, our chaotic society. More time I spend time alone with natures I've experienced solitude, I experienced freedom. Probably for the first time ever in my life I found one practical way to reconnect me back to myself, to the back of my mind. 
+
+When I reached the top of the hill, out of no where. The relaxing atmosphere is indescribable, plenty of fresh air, smell of grass and the quietness. 
+
+This is a huge chunk of happiness and I totally admitted, I love it.  
+I want more...   
+
+However, this type of happiness is very hard to earn. I have to plan, go out running, walking for several hours, sometimes several days. In order to get my brain to release those mixture of happy doses. Those sort of runner high chemical is damn great, but unfortunately our brain can be so forgetful. And the only way to have it more is to try even harder.
+
+So intense, I broke my body physically so many times just for have a bit more of these doses of happiness.
+
+I have met Yoga while ago when I was in my injury. I have to admitted it probably the greatest gift I've ever received.
+
+Yoga? Ok. I have heard about it. But, does it make your happy?
+
+What's good about Yoga is that it will help you to learn more about yourself. Every single human body is different, and Yoga has taught me to accept my limitation, to accept others, to stop comparing, and learn to be aware about your body.
+
+In Yoga, there is a form of Meditation called Yama.
+
+I think practicing Yoga alone won't create the happiness I have today. Thinking about it, those happiness has already been there, all this time. but my forgetful brain cannot see it as a whole but a scattered pieces mixing with pile of many other emotions I have experienced throughout my life.
+
+Yoga itself probably won't give you a huge chunk of happiness, or a rush to your brain like running, but it will help your brain realized those happiness does exist, inside you.
+
+Being mindful is like having a super power to travel to your happy place whenever you want. It helps you see yourself form the third person perspective. It helps you to stand still among the chaos of our modern society. 
+
+And I'm very happy to tell you that it can get even better. 
+
+
+
+
+
+
