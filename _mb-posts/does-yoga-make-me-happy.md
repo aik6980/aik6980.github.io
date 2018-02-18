@@ -6,11 +6,6 @@ author: aik
 ---
 
 ## Keys
-- Before Yoga my happiness is hard-earned
-    - Walking for the whole day
-    - Running and seek for a high
-    - Buying things
-    - Finding validation from society
 - My source of happiness (These are big pieces)
     - Feeling one with Natures, while I'm out walking/hiking
     - Compassion with friends and family
@@ -27,56 +22,75 @@ author: aik
     - Collect and create a bigger happiness
 
 ---
-"Does my happiness mainly come from practicing Yoga?" This is a very interesting question I got asked recently, and it makes me rethink about myself, how I live my whole life and what is it that make me happy at the first place. While my life mainly hasn't changed much in the past five years, but somehow I strongly believe that I've become a happier person than I have ever been.
+"Does my happiness solely come from Yoga?" This is a very interesting question I got asked recently. It makes me think about myself, now and then. While my daily life hasn't changed much in the past five years, but somehow I feel like I've become a happier person than I have ever been. Why?
 
 Let's start from the top, shall we?
 
-As far as I remembered, I am always a happy, easy-going type of person generally. I was born as a happy child, surrounded by well cared and loving family. We've never been rich but my life is definitely good in general. I went to a well known University, graduated, working my drem job and I still enjoy doing it until these days. 
+As far as I remembered, I am always a happy person generally. I was born as a happy child, surrounded by well cared and loving family. We've never been rich but my life is definitely good all around. I was a good student, went to a well known University, graduated, landed myself my dream job which I still enjoy doing it until these days. 
 
-Hey, everything sounds so good Aik! Look like a very successful happy life?  
+Hey, everything sounds so good! Don't you think?  
 
-Surely it is. I have achieve a well big chunk of happiness, and I'm very grateful. I got well accepted by the society. I lived my life making sure people will love me, and I keep improving myself so I can be useful.
+All of these surely make me happy, I cannot deny that. However, these kind of happiness is very depended so much on expectation from the society awarding me with their validation, gifts and social status, for example, because I work so hard and sometimes feeling stressful so I used money I earned to buy things, to party, going out drink myself to death to make myself forget and feel better. A lot of time I felt anxious beause I want to make sure people will like me. I worked day and night, keep improving myself so I can be climb up my career and be the best.
 
-That sounds great, right? Building your social status while being useful.
+Nothing wrong with that, right? We're all work hard, play hard. Building social status and aiming for the top.
 
-But...really, sometimes I don't even know who is really me? I mean, I knew what I want, and what I'm doing. I can use my saving to buy shiny items that make me happy. However, most of time I do feel like I need a 'validation'. I also do feel pressure from work, pressure trying to be loved, pressure trying to be a person that is 'worthwhile'.
+Well...those happiness depended heavily on validation from others which can turn into a pressure that could make you easily depressed. I should mentioned as well that while I worked long hours, I have only one life, I don't exercise and I eat badly. Additionally, happiness from buying shiny new things does not last very long either. Actually it faded out very quickly and it can turn to a worrying when I have to find space to keep all of those items.
 
-At this point in time, my happiness is very short-live. It seems to happen very fast and don't last very long. They are also seems to be very easy to forget, like.. in just a few minutes, and I have to go back and working hard on finding it again.  
+I think I will write about how I break apart from the world of materialism and become a keen minimalist later.
+Anyway, I made a break-thru eventually. If you asked I've never thought at this point in life, my journey have just begun...
 
-Around five years ago, my life style has changed drastically. From a person who spent most of the time working inside, I've adopted a very active life style. I went out running, losing half of my body weight, I have become pretty fit I can play better at any sports than I've ever done before. 
+About five years ago, my life style has turned 180. From a person who spent most of the time inside, I've adopted a very active way of living, and quickly become quite a energetic person.
 
-But... I still feel I'm under a lot of emotions sometimes. I still have many expectation which I cannot shake them off. If I can do these things, I should be happy, right? 
+I went out running, losing half of my body weight, I have become pretty fit I can play better at any sports than I've ever done before in my life. 
 
-After that, I started going out walking. I often do my walk along, spend time with myself as far as possible from other human beings. Walking away from our chaotic society made me feel so good. More time I spend time alone with natures I've experienced solitude, I experienced freedom. Probably for the first time ever in my life I found one practical way to reconnect me back to myself, to the back of my mind. 
+I'm happy seeing myself improving physically. However, while I'm tougher outside, inside I still feel I'm under a lot of emotions and I don't know how to control them. I can achieve more with my body, but I also accidentally build a small unshakable ego, and I put an expectation on others without realizing.
 
-When I reached the top of the hill, out of nowhere. The relaxing atmosphere is indescribable, plenty of fresh air, smell of grass and the quietness. There is a large stream of happiness flowing into me and I have to admit, I totally love it.  
+Since the very beginning, I always feel more comfortable around machines, and I dont really like being around people so much. This amplified my belief, making me feel even more disgust of our modern society.   
 
-Now I found my happiness, I found my happy place. I want more...   
+After that, I started going out hiking long distance. I always love mountain, and now I'm also  ready physically therefore I tried to go as far as possible from our chaotic society. More time I spend time alone with natures I've experienced solitude, I experienced freedom. Probably for the first time ever in my life I found one practical way to reconnect me back to myself, to the back of my mind. 
 
-However, this type of happiness is very hard to earn. I have to plan, go out running, walking for several hours, sometimes several days. In order to get my brain to release those mixture of happy doses. Those sort of runner high chemical is damn great, but unfortunately our brain can be so forgetful. And the only way to have it more is to try even harder.
+When I reached the top of the hill, out of no where. The relaxing atmosphere is indescribable, plenty of fresh air, smell of grass and the quietness. I can spread my personal space as far as I want it to be without any worries. For me, this is definitely a true happiness right there. 
 
-So intense, I broke my body physically so many times just for have a bit more of these doses of happiness.
+The only problem is when I got back home,   
+I want more...   
 
-I'm an addict...
+Pretty much at this point I have found out a lot about myself, and this kind of happiness is well worth it, at the same time it's very hard to earn. I have to plan, go out running, walking for several hours, sometimes several days. In order to get my brain to release those mixture of happy doses. Those sort of runner high chemical is damn great, but unfortunately our brain can be so forgetful. And the only way to have it more is to try even harder.
 
-My sister introduced me to Yoga while I was recovering from one of my injury. I was skeptical at first, now I have to admit it probably the greatest gift I've ever received in my life.
+I've become an addict. I went out and getting into more intensively. I broke my body physically, so often, so many times, just for have a bit more of these doses of happiness.
 
-Now Yoga? Ok. I have heard about it. But, what is it really? Does it make your happy?
+One time I hurt myself so bad, and has to be bedridden for several days. This is when the fuun stopped and I don't want to injure myself that bad anymore.
 
-Yoga is a training method that focused on balancing several aspects of your life. As a practictioner, 
+My sister then introduced me to something sounds pretty hippy called Yoga. Truly say, it probably is the greatest gift I've ever received in my entire life.
 
-What's good about Yoga is that it will help you to learn more about yourself. Every single human body is different, and Yoga has taught me to accept my limitation, to accept others, to stop comparing, and learn to be aware about your body.
+And here is my story how I come back to love humans again.
 
-In Yoga, there is a form of Meditation called Yama.
+Technically, Yoga is one of the oldest system of personal development in the world. This system of balancing the body, mind and spirit. Developed by people who understood man's essential nature and realized the way to utilise our inner resources to live in harmony with himself and the environment.
 
-I think practicing Yoga alone won't create the happiness I have today. Thinking about it, those happiness has already been there, all this time. but my forgetful brain cannot see it as a whole but a scattered pieces mixing with pile of many other emotions I have experienced throughout my life.
+What's amazing about Yoga is that it will help you to learn more about yourself. It helped me reconnect to my body in a mindful way while keeping the feeling no different from going out torturing myself. Yoga has taught me to accept my limitation, and help me being mindful about others. It helped me regain the sight to appreciate the beauty of uniqueness in every human body, and we are capable of being great in doing different things.  
 
-Yoga itself probably won't give you a huge chunk of happiness, or a rush to your brain like running, but it will help your brain realized those happiness does exist, inside you.
+As you practice Yoga it definitely will create happiness for you. However, it probably won't reward you with a huge chunk of happiness like buying a new car, or a rush to your brain like running a marathon.
 
-Being mindful is like having a super power to travel to your happy place whenever you want. It helps you see yourself form the third person perspective. It helps you to stand still among the chaos of our modern society. 
+I think practicing Yoga alone won't create the happiness I have today either. However, by reconnecting back to myself, mindfully, it helped me learn that the true happiness could be coming from inside.
 
-And I'm very happy to tell you that it can get even better. 
+It helped me gain a realization that I'm able to tap into a pool of happiness stored in the back of my brain which I've been collecting through out my life.
 
+Thinking about it, those happiness has already been there with you, all this time. but our forgetful brain cannot see it as a whole but a scattered pieces mixing with pile of many other emotions I have experienced throughout my life. 
+
+Not only that, Yoga will do you an even greater favor by helping your brain realized those small pieces of happiness are actually everywhere your normal daily life!
+
+The happiness from looking at the Sun, 
+from the birds sing,
+from truthfully smiling at each others,
+
+Nowadays, I feel like I can be honest to myself and speak it out loud, while being useful to others without worrying about any validation.
+
+I am also grateful to have others helping me living my life. 
+
+Yoga also helps opening up the door to other sources of body and mind practice. In my case, it has brought me Pilates, Zen Meditation and etc.
+
+Practicing meditation can give your a super power.
+
+Being mindful is like having a super power to travel to your happy place whenever you want. It helps you see yourself form the third person perspective. It helps you to stand still among the chaos of our modern society.
 
 
 
