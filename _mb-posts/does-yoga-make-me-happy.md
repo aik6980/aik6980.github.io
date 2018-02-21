@@ -1,38 +1,20 @@
 ---
 layout: mindbody/post
-title:  "Does Yoga make me happy?"
+title:  "Does my happiness solely come from Yoga?"
 title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik
----
-
-## Keys
-- My source of happiness (These are big pieces)
-    - Feeling one with Natures, while I'm out walking/hiking
-    - Compassion with friends and family
-- I had feel these happiness, but my brain can be very forgetful
-- My Happiness doesn't come from Yoga alone
-- Yoga/Meditation helps me aware of those happiness around me
-    - Yama -> Mindfulness in Yoga
-    - Being Mindful, you can practice your mind to goto you happy place
-    - Practicing Yoga, make it easier to remember, and travel your mind to it
-- Next Step
-    - Aware of those tiny little happiness which normally happen in daily life
-        - Sun shining, Wind blow to your face
-        - People smiling to you
-    - Collect and create a bigger happiness
-
 ---
 "Does my happiness solely come from Yoga?" This is a very interesting question I got asked recently. It makes me think about myself, now and then. While my daily life hasn't changed much in the past five years, but somehow I feel like I've become a happier person than I have ever been. Why?
 
 Let's start from the top, shall we?
 
-As far as I remembered, I am always a happy person generally. I was born as a happy child, surrounded by well cared and loving family. We've never been rich but my life is definitely good all around. I was a good student, went to a well known University, graduated, landed myself my dream job which I still enjoy doing it until these days. 
+As far as I remembered, I am always a happy, easy-going type of person. I was born as a healthy child, surrounded by well cared and loving family. We've never been rich but my life is definitely good all around. I was doing quite well at school, went to a well known University, graduated, eventually landed myself my dream job which I still enjoy doing it until these days. 
 
 Hey, everything sounds so good! Don't you think?  
 
-All of these surely make me happy, I cannot deny that. However, these kind of happiness is very depended so much on expectation from the society awarding me with their validation, gifts and social status, for example, because I work so hard and sometimes feeling stressful so I used money I earned to buy things, to party, going out drink myself to death to make myself forget and feel better. A lot of time I felt anxious beause I want to make sure people will like me. I worked day and night, keep improving myself so I can be climb up my career and be the best.
+All of these surely make me happy, I cannot deny that. However, these kind of happiness is very depended so much on expectation from the society awarding me with their validation, gifts and social status, for example, because I work so hard and sometimes feeling stressful so I used money I earned to buy things, to party, going out drinking to comfort myself and feel better on some hard days. Many time I felt anxious beause I want to make sure people will like me. I worked day and night, keep improving myself so I can climb up the career ladder, aiming to be the best.
 
-Nothing wrong with that, right? We're all work hard, play hard. Building social status and aiming for the top.
+Nothing wrong with that, right? We're all work hard, play hard. Building social status and shooting for the top.
 
 Well...those happiness depended heavily on validation from others which can turn into a pressure that could make you easily depressed. I should mentioned as well that while I worked long hours, I have only one life, I don't exercise and I eat badly. Additionally, happiness from buying shiny new things does not last very long either. Actually it faded out very quickly and it can turn to a worrying when I have to find space to keep all of those items.
 
@@ -66,15 +48,13 @@ And here is my story how I come back to love humans again.
 
 Technically, Yoga is one of the oldest system of personal development in the world. This system of balancing the body, mind and spirit. Developed by people who understood man's essential nature and realized the way to utilise our inner resources to live in harmony with himself and the environment.
 
-What's amazing about Yoga is that it will help you to learn more about yourself. It helped me reconnect to my body in a mindful way while keeping the feeling no different from going out torturing myself. Yoga has taught me to accept my limitation, and help me being mindful about others. It helped me regain the sight to appreciate the beauty of uniqueness in every human body, and we are capable of being great in doing different things.  
+What's amazing about Yoga is that it will teach you more about yourself and how to love and be happy with it. It helped me reconnect with my body in a mindful way while keeping the good feeling no different from going out torturing myself. Yoga has taught me to accept my limitation, and help me being mindful about others. It helped me regain the sight to appreciate the beauty of uniqueness in every human being, and we are capable of being great in doing different things.  
 
-As you practice Yoga it definitely will create happiness for you. However, it probably won't reward you with a huge chunk of happiness like buying a new car, or a rush to your brain like running a marathon.
+By practicing Yoga it definitely will create happiness for you. However, it probably won't reward you with a huge chunk of happiness like buying a new car, or a rush to your brain like running a marathon.
 
-I think practicing Yoga alone won't create the happiness I have today either. However, by reconnecting back to myself, mindfully, it helped me learn that the true happiness could be coming from inside.
+I think practicing Yoga alone won't create the happiness I have today either. However, by reconnecting back to myself, mindfully, it helped me gain a realization that I'm able to tap into a pool of happiness that stored in the back of my brain. This is like unlocking a chest which is full of treasure that I've been collecting for all my life.
 
-It helped me gain a realization that I'm able to tap into a pool of happiness stored in the back of my brain which I've been collecting through out my life.
-
-Thinking about it, those happiness has already been there with you, all this time. but our forgetful brain cannot see it as a whole but a scattered pieces mixing with pile of many other emotions I have experienced throughout my life. 
+Thinking about it, those happiness has already been there with me, all this time. but our forgetful brain cannot see it as a whole but a scattered pieces mixing with pile of many other emotions I have experienced throughout my life. 
 
 Not only that, Yoga will do you an even greater favor by helping your brain realized those small pieces of happiness are actually everywhere your normal daily life!
 
