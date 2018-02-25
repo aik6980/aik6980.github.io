@@ -8,7 +8,7 @@ author: aik
 
 ---
 For TL;DR version, check the following link 
-[wellness/posts/2018-02-my-source-of-happiness-tldr](/wellness/posts/2018-02-my-source-of-happiness-tldr)
+[wellness/posts/2018-02-source-of-happiness-tldr](/wellness/posts/2018-02-source-of-happiness-tldr)
 
 ---
 

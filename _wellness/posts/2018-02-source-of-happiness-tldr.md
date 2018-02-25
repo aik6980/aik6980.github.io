@@ -5,22 +5,34 @@ title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik
 ---
 This is a TL;DR version of my previous post on "Is Yoga the sole source of my happiness?"
+[wellness/posts/2018-02-source-of-happiness](/wellness/posts/2018-02-source-of-happiness)
 
 I found this is a very interesting question I got asked recently (Enough that I really want to share it with everyone). What is it exactly that make me happy these days, are they different from what I thought back in my younger years? While my daily life hasn't changed much in the past five years, but somehow I feel like I've become a happier person than I've ever been.
 
+---
 ##### Let's start from the very beginning, shall we?
+---
 As far as I remembered, I am always a happy, easy-going type of person. I was born as a healthy child, surrounded by well cared and loving family. My family is not rich but we definitely have enough of everything. I was doing quite well at school, went to a well known University, graduated, eventually landed myself my dream job which I still enjoy doing it until these days. 
 
+---
 ##### Hey, everything sounds so good! Don't you think?
+---
 All of these surely make me happy, many huge chunk of happiness really, I cannot deny that. However, these kind of happiness sometimes come with such pressure as these are very much depended on expectation from the society awarding me with their validation, gifts and social status, for example, because I work so hard and sometimes feeling stressful so I used money I earned to buy things, to party, going out drinking to comfort myself and feel better on some hard days. Many time I felt anxious beause I want to make sure people will like me. I worked day and night, keep improving myself so I can climb up the career ladder, aiming to be the best.
 
+![happy-young](photo/happiness01.jpg)
+
+---
 ##### Nothing wrong with that, right? We're all work hard, play hard. Building social status and shooting for the top.
+---
 Well...because those happiness depended heavily on validation from others which can turn into a pressure that could make you easily depressed. I should mentioned as well that while I worked long hours, my life see mostly at a single dimension, I don't exercise, I eat badly. While I still smile, my health degraded. Additionally, happiness from spending money buying shiny new things does not last very long either. Actually it faded out very quickly and it can turn to a worrying when I have to find space to keep all of those items. Materialism is a very scary trap, honestly.
 
 Think I will write about how I break apart from the world of materialism and become a keen minimalist later.
+
 Anyway, I made a break-thru eventually. If you asked I've never thought at this point in life, my new interesting journey have just begun...
 
-##### About five years ago, my life style has turned upside down. 
+---
+##### About five years ago, my life style has turned upside down. For the better!
+---
 From a person who spent most of the time inside a room, in front of a computer. Now I've adopted a very active way of living, and quickly become quite a energetic person.
 
 I found myself went out running, losing half of my body weight, I have become pretty fit I can play better at any sports than I've ever done before in my life. 
@@ -45,7 +57,9 @@ I don't want to injure myself anymore.
 
 During recovery time, my sister then introduced me to something sounds pretty hippy called Yoga. Truly say, I was skepitical at first, but at the end, This probably is the greatest gift I've ever obtained in my entire life.
 
+---
 ##### And here is the part of my story how I brought myself from the extreme back into balance
+---
 Technically, Yoga is one of the oldest system of personal development in the world. This system of balancing the body, mind and spirit. Developed by people who understood man's essential nature and realized the way to utilise our inner resources to live in harmony with himself and the environment.
 
 What's amazing about Yoga is that it will teach you about yourself and how to love and be happy with it. It helped me reconnect with my body in a mindful way while keeping that great feeling of achievement, no different from going out torturing myself like I did before. Yoga has taught me to accept my limitation, and help me being mindful about others. It helped me regain the sight to appreciate the beauty of uniqueness in every human being as well. I now can see the beauty of people, as we are capable of being great in doing different things.  
