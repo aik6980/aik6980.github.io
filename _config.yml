@@ -9,7 +9,7 @@
 title: AikDev Web4
 email: aik_canhelp@hotmail.com
 description: #> # this means to ignore newlines until "baseurl:"
- Learn to Code - Code to Learn
+ AikDev
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -27,9 +27,7 @@ kramdown:
 
 # Collections
 collections:
-    mb:
-        output: true
-    mb-posts:
+    wellness:
         output: true
 
 # Exceprt
