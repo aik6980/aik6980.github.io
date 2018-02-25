@@ -37,7 +37,9 @@ From a person who spent most of the time inside a room, in front of a computer. 
 
 I found myself went out running, losing half of my body weight, I have become pretty fit I can play better at any sports than I've ever done before in my life. 
 
-I'm happy seeing myself improving physically. However, while I'm tougher outside, inside I still feel I'm under a lot of emotions and I don't know how to control them. I can achieve more with my body, but I also accidentally build a small unshakable ego, and I put an expectation on others without realizing.
+I'm happy seeing myself improving physically. However, while I'm tougher outside, inside I still feel I'm under a lot of emotions and I don't know how to control them. I can achieve more with my body, but I also accidentally build a small unshakable ego, and I unintendionally put some unrealistic expectation on others without realizing.
+
+![happy-active](photo/active-happiness.jpg)
 
 Since the very beginning, I always feel more comfortable around machines, and I dont really like being around people so much. This amplified my belief, making me feel even more disgust of our modern society.   
 
@@ -47,6 +49,8 @@ When I reached the top of the hill, out of no where. The relaxing atmosphere is 
 
 The only problem is when I got back home. I don't have quiet mind. 
 I want more...  
+
+![happy-nature](photo/seven-sisters.jpg)
 
 Pretty much at this point I have found out a lot about myself, about the feeling that I like, and this kind of happiness is well worth it, but at the same time it's very hard to earn. I have to plan, go out running, walking for several hours, sometimes several days. In order to get my brain to release those mixture of happy doses. Those sort of runner high chemical is damn great, but unfortunately our brain can be so forgetful. And the only way to have it more is to try even harder.
 
@@ -68,6 +72,8 @@ By practicing Yoga it definitely will bring happiness. However, it probably won'
 
 In my opinion, Yoga itself isn't my main source of happiness either, actually if you practice Yoga like Sports while ignoring practicing Mindfulness. Yoga will harm you badly with injuries, and even causes depression. However, doing it correctly, I've seen myself has been developed into a better person as it helped me to be able to find balance in my life. I have a healthier mind and body, which leaded to my new foundation of happiness, which is created from within myself.
 
+![happy-mindful](photo/mindful-happiness.jpg)
+
 Now, I've gained a realization that I'm able to tap into a pool of happiness that stored in the back of my brain. 
 This is like unlocking into my saving account that I've been collecting for all my life, without ever realizing its existence.
 
@@ -81,6 +87,8 @@ Yoga's also showed me and opened the way to other mindfulness practices. Through
 Now, this helped taking me away from the need of Materialism, and helped me adopting more Minimalistic life style. 
 
 I can feel that I've become more self-sustain. I've become more capable to take care of my mind and body. I've become more confident and ready to carry myself through any chaos in life that might happen (and it'll pass). Moreover, I'm more than ready to contribute back and become more useful to our community, our beautiful and chaotic society. 
+
+![happyman](photo/happy-stickman.jpg)
 
 And one last thing worth mentioning, and this is the best. Now, I knew that I'd never feel alone again, because, nowadays I've become my Best Friend, of myself.
 
