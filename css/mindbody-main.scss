@@ -49,7 +49,7 @@ html {
     h1 {
         @extend .display-4;
         @include media-breakpoint-down(sm) {
-            font-size: $display4-size * 0.75;
+            font-size: $display4-size * 0.6;
         }
     }
 }

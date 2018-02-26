@@ -19,7 +19,7 @@ As far as I remembered, I am always a happy, easy-going type of person. I was bo
 ---
 All of these surely make me happy, many huge chunks of happiness really, I cannot deny that. However, I don't think I have enough self-awareness at the time and sometimes I experienced some unknown, unshakable pressure. These negativity feeling where I tried to keep up with all expectations from the society because I want them to award me with their validation, more success stories and social status.
 
-I'm a big fan of 'Work Hard, Play Hard' attitude, I pushed almost every single drop of my energy into work. Afterwards, if I have any stress I used money to buy new gadgets, to party, going out drinking hopefully to be relief and feel better on the next day. 
+At the time, I can tell I'm a strong believer of 'Work Hard, Play Hard' attitude, I pushed almost every single drop of my energy into work. Afterwards, if I have any stress I used money to buy new gadgets, to party, going out drinking hopefully to be relief and feel better on the next day. 
 
 I kept working, pushing harder days and nights, doing overtime, rinse and repeat, keep improving myself so I can climb up the career ladder, aiming to be the best.
 
