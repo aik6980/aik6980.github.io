@@ -40,7 +40,7 @@ I don't think I can handle emotions very well...
 
 I'd also fell into a trap of Materialism, I satisfied my cravings by spending money buying shiny new things, and I thought this is a happiness. As you might know already, it is not, and the good feeling does not last very long. Actually it faded out very quickly, then you are back at square one again. This never ended. With more and more belongings, now I am worried when I have to find time and spaces for looking after all of those items.
 
-Think I will write about how can I stop and break apart from the world of materialism and become a keen minimalist later.
+Minimal living is a very interesting life style, and can be quite beneficial. I promise I will share what I've learnt from it, and how can I stop and break apart from the world of materialism later.
 
 Anyway, I made a break-thru eventually. If you asked I've never thought at this point in life, my new interesting journey have just begun...
 
