@@ -38,7 +38,7 @@ I don't think I can handle emotions very well...
 ##### Craving for shiny new things
 ---
 
-I'd also fell into a trap of Materialism, I satisfied my cravings by spending money buying shiny new things, and I thought this is a happiness. As you might know already, it is not, and the good feeling I perceived does not last very long either. Actually it faded out very quickly, then you are back at square one again. This never ended. With more and more belongings, now I am worried when I have to find time and spaces for looking after all of those items.
+I'd also fell into a trap of Materialism, I satisfied my cravings by spending money buying shiny new things, and I thought this is a happiness. As you might know already, it is not, and the good feeling I perceived does not last very long either. Actually it faded out very quickly, then you are back at square one again. This never ended. With more and more belongings, now I am worried, I have to find time and spaces for looking after all of those items.
 
 Minimal living is a very interesting life style, and can be quite beneficial. I promise I will share what I've learnt from it, and how can I stop and break apart from the world of materialism later.
 
