@@ -28,7 +28,7 @@ I kept working, pushing harder days and nights, doing overtime, rinse and repeat
 ---
 ##### Nothing wrong with that! We're all work hard, play hard. Building social status and working towards one at the top?
 ---
-Many times I have to admit, this attitude left me with a very bitter feeling and anxiety. I'm surrounded with friends but I don't feel like home. I don't know why I'm doing this, what is my purpose in keep working hard? Is others still going to like me tomorrow? Do I care about tomorrow at all? Who am I, and where is my identity, really?
+Many times I have to admit, this attitude left me with a very bitter feeling and anxiety. I'm surrounded with friends, but the warmliness quickly disappeared when I'm alone and I don't feel like home. I feel lost from time to time, I don't know why I'm trying, what is my purpose in keep working hard? Is others still going to like me tomorrow? Do I even care about tomorrow at all? Who am I, and where is my identity, really?
 
 I finally realized that my happiness here is entangled heavily on earning validation from others. I expected and relied on them too much, easily turning into depression. I should mentioned as well that while working long hours, I can only see myself at one single dimension, I don't exercise, I eat badly. While I'm still smiling, my health degraded. I feel negative and I kept them inside.
 
@@ -38,7 +38,7 @@ I don't think I can handle emotions very well...
 ##### Craving for shiny new things
 ---
 
-I'd also fell into a trap of Materialism, I satisfied my cravings by spending money buying shiny new things, and I thought this is a happiness. As you might know already, it is not, and the good feeling does not last very long. Actually it faded out very quickly, then you are back at square one again. This never ended. With more and more belongings, now I am worried when I have to find time and spaces for looking after all of those items.
+I'd also fell into a trap of Materialism, I satisfied my cravings by spending money buying shiny new things, and I thought this is a happiness. As you might know already, it is not, and the good feeling I perceived does not last very long either. Actually it faded out very quickly, then you are back at square one again. This never ended. With more and more belongings, now I am worried when I have to find time and spaces for looking after all of those items.
 
 Minimal living is a very interesting life style, and can be quite beneficial. I promise I will share what I've learnt from it, and how can I stop and break apart from the world of materialism later.
 
