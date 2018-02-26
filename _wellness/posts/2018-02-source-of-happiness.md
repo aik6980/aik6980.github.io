@@ -31,7 +31,7 @@ I can feel that I've become more self-sustain. I've become more capable to take 
 And one last thing worth mentioning, and this is the best. 
 Now, I knew that I'd never feel alone again, because, nowadays I've become my Best Friend, of myself.
 
-And all of these together is what make me a happy person, like I've never been before.
+All of these together is what make me a happy person, like I've never been before.
 
 
 
