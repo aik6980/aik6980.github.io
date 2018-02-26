@@ -18,7 +18,11 @@ Outside in, It also helped me to realize and appreciate those little happiness t
 
 ![meditation](photo/seven-sisters.jpg)
 
-Yoga's taught me to be honest to myself, to be more open minded. It's reconnected my body with the nature I love, with our Mother Earth. Not only that, it's also reconnected my mind back to our society, to other human being. It helped me see through Chaos, observing the Beauty of everything, while kept being emotionally Stable. 
+Yoga's taught me to be honest to myself, to be more open minded. It's reconnected my body with the nature I love. I've learnt the way to be one with our Mother Earth.
+
+It also helped reconnecting my mind back to society, to other human being. I have learnt a better way to communicate, not only with my inner self but also with others.
+
+I've developed where my mind can be completely quiet through chaos. It let me be an observer of situation, while kept being unbiased and emotionally stable. 
 
 Yoga also showed me the way to other mindfulness practices. Through this, I've become a keen practitioner of different several kinds of Meditation. It took me away from the need of Materialism, and helped me adopting more Minimalistic life style. 
 

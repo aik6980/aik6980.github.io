@@ -106,7 +106,13 @@ Outside in, It also helped me to realize and appreciate those little happiness f
 
 I've learnt to love and enjoy life, I'm grateful for the time, for the day, for the weather. I'm grateful for my work, for food, for warm cloths, and I'm grateful that I have everyone and everything, that helping me living my life. 
 
-Yoga's taught me to be honest to myself, to be more open minded. It's reconnected my body with the nature I love, with our Mother Earth. Not only that, it's also reconnected my mind back to our society, to other human being. It helped me see through Chaos, observing the Beauty of everything, while kept being emotionally Stable. Now, I'm free from any unnecessary validation I used to hung up to.
+Yoga's taught me to be honest to myself, to be more open minded. It's reconnected my body with the nature I love. I've learnt the way to be one with our Mother Earth.
+
+It also helped reconnecting my mind back to society, to other human being. I have learnt a better way to communicate, not only with my inner self but also with others.
+
+I've developed where my mind can be completely quiet through chaos. It let me be an observer of situation, while kept being unbiased and emotionally stable. 
+
+I found that now I don't have to fear of any social judgement. I'm free from any unnecessary validation I used to hung up to.
 
 Yoga's also showed me and opened the way to other mindfulness practices. Through this, I've become a keen practitioner of different several kinds of Meditation. 
 Now, this helped taking me away from the need of Materialism, and helped me adopting more Minimalistic life style. 
