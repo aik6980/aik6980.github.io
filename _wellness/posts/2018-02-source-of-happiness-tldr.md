@@ -100,7 +100,7 @@ In my opinion, Yoga itself isn't my main source of happiness either, actually if
 Now, I've gained a realization that I'm able to tap into a pool of happiness that stored in the back of my brain. 
 This is like unlocking into my saving account that I've been collecting for all my life, without ever realizing its existence.
 
-Thinking about it again, those happiness has already been here with me, all the time. Unfortunately, as my forgetful brain cannot see it as a whole but most of the time, this looks like a mixing piles of many emotions I have experienced altogether instead. Now, I've learnt to pick out the positivity and be able to negotiate, and handle, or something just simply neglect, those negativity. 
+Thinking about it again, those happiness has already been here with me, all the time. Unfortunately, as my forgetful brain cannot see it as a whole but most of the time, this looks like a mixing piles of many emotions I have experienced altogether instead. Now, I've learnt to pick out the positivity and be able to negotiate with my negativity, which I could handle with confident or sometimes just simply neglect, and leave it behind. 
 
 Outside in, It also helped me to realize and appreciate those little happiness from surrounding that is happening all around me. Now, I can see, I can sense those little happiness from everywhere, all the time. 
 
