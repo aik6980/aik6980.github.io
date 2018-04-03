@@ -1,16 +1,20 @@
 ---
 layout: mindbody/post
 title:  "All you have to do"
-title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
+title-img: photo/beyourself.jpg
 author: aik
 ---
+
+**This is a copy of one of my favorite short stories, from the book called *One More Thing*, written by *B.J.Novak***
+
+---
+
 I wear a bright red T-shirt every single day.
-
 I've been doing it for years.  
-That's all you have to do to meet the girl of your dreams.  
-It sounds easy, doesn't it?  
 
->This is a copy of one of my favorite short stories, from the book called One More Thing, written by B.J.Novak  
+That's all you have to do to meet the girl of your dreams.  
+
+It sounds easy, doesn't it?  
 
 It is. That's exactly my point. Wearing a red T-shirt is the hardest part of it all, and it's as easy as could be.  
 
