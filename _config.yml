@@ -34,10 +34,10 @@ collections:
 excerpt_separator: "<!--more-->"
 
 # Github Emoji
-gems:
+plugins:
  - jemoji
  - jekyll-github-metadata
- - jekyll-paginate
+ #- jekyll-paginate
 
 # GitHub
 #theme: jekyll-theme-architect
