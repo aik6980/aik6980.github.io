@@ -2,6 +2,8 @@
 ## Jekyll Cheatsheet
 http://jekyll.tips/jekyll-cheat-sheet/
 ## Liquid syntax
+http://shopify.github.io/liquid/  
+https://jekyllrb.com/docs/templates/  Liquid syntax in Jekyll Doc
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
 ## Emoji on GitHub Pages
@@ -45,6 +47,12 @@ http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/
 ## Liquid syntax
 ### Nav menu sorting
 http://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid
+
+# Using Collections to organize Posts
+updated 06/04/18
+
+https://jekyllrb.com/docs/collections/  
+
 
 # Project: Incorporate Jekyll Theme Gem
 updated 09/03/17
