@@ -3,6 +3,7 @@ layout: mindbody/post
 title:  "Sources of Happiness TL;DR"
 title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik
+tags: featured
 ---
 This is a TL;DR version of my previous post on "Is Yoga the sole source of my happiness?"
 [wellness/posts/2018-02-source-of-happiness](/wellness/posts/2018-02-source-of-happiness)
