@@ -3,6 +3,7 @@ layout: mindbody/post
 title:  "All you have to do"
 title-img: photo/beyourself.jpg
 author: aik
+featured: 1
 ---
 
 **This is a copy of one of my favorite short stories, from the book called *One More Thing*, written by *B.J.Novak***

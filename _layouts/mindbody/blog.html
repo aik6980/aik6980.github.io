@@ -67,13 +67,13 @@
         | where_exp: "item", "item.layout contains 'post'"  
       %}
       {% assign featured_posts = posts
-        | where_exp: "item", "item.featured == true"
+        | where_exp: "item", "item.featured == 0"
       %}
       {% assign non_featured_posts = posts
-        | where_exp: "item", "item.featured != true"
+        | where_exp: "item", "item.featured > 0"
       %}
 
-      <!-- debug -->
+      <!-- debug -->  
       {% comment %}
       <div>
         {% for item in non_featured_posts %}
@@ -92,10 +92,10 @@
                 <a class="text-dark" href="#">{{ featured_posts.first.title }}</a>
               </h3>
               <div class="mb-1 text-muted">Nov 12</div>
-              <p class="card-text mb-auto">{{ featured_posts.first.title }}</p>
+              <p class="card-text mb-auto">{{ featured_posts.first.excerpt | strip_html | truncatewords: 12 }}</p>
               <a href={{ featured_posts.first.url }}>Continue reading</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-lg-block" style="background-image: url('posts/{{ featured_posts.first.title-img }}');">
           </div>
         </div>
         <div class="col-md-6">
@@ -107,10 +107,10 @@
                 <a class="text-dark" href="#">{{ post.title }}</a>
               </h3>
               <div class="mb-1 text-muted">Nov 11</div>
-              <p class="card-text mb-auto">{{ post.title }}</p>
+              <p class="card-text mb-auto">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
               <a href={{ post.url }}>Continue reading</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-lg-block" style="background-image: url('posts/{{ post.title-img }}');">
           </div>
         </div>
       </div>

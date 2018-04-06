@@ -3,13 +3,13 @@ layout: mindbody/post
 title:  "Sources of Happiness TL;DR"
 title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik
-featured: true
+featured: 0
 ---
 This is a TL;DR version of my previous post on "Is Yoga the sole source of my happiness?"
 [wellness/posts/2018-02-source-of-happiness](/wellness/posts/2018-02-source-of-happiness)
 
 I found this is a very interesting question I got asked recently (Enough that I really want to share it with everyone). What is it exactly that make me happy these days, are they different from what I thought back in my younger years? While my daily life hasn't changed much in the past five years, but somehow I feel like I've become a happier person than I've ever been.
-
+<!--more-->
 ---
 ##### Let's start from the very beginning, shall we?
 ---
