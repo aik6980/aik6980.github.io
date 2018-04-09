@@ -1,5 +1,5 @@
 ---
-layout: mindbody/post
+layout: wellness/post
 title:  "Science of Relaxation"
 title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik

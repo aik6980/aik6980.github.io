@@ -1,5 +1,5 @@
 ---
-layout: mindbody/post
+layout: wellness/post
 title:  "All you have to do"
 title-img: photo/beyourself.jpg
 author: aik

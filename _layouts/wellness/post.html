@@ -7,11 +7,11 @@
         
         <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
-        {% include mindbody/stylesheets.html %}
+        {% include wellness/stylesheets.html %}
     </head>
     <body>
         <header>
-            {% include mindbody/header-nav.html %}
+            {% include wellness/header-nav.html %}
         </header>
         <div id='title' class='w-100 bg-dark d-flex align-items-center justify-content-center border text-white' style='background-image: url({{page.title-img}}), linear-gradient(lightgrey, grey, lightgrey);'> 
             <h1 class="textfit d-inline-block text-truncate" style="max-width:80vw;">{{page.title}}</h1>

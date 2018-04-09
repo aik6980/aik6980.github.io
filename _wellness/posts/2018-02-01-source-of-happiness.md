@@ -1,5 +1,5 @@
 ---
-layout: mindbody/post
+layout: wellness/post
 title:  "Sources of Happiness?"
 title-img: photo/the-yoga-garden-savasana-pose-drawingOPT.png
 author: aik

@@ -2,6 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 /* stylelint-disable selector-list-comma-newline-after */
+@import "wellness-shared";
+
+body {
+  @extend .background-main;
+}
 
 .blog-header {
   line-height: 1;
