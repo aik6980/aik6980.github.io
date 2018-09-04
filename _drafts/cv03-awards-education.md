@@ -1,4 +1,4 @@
-<small>[updated 07/01/18 -- p03]</small>
+<small>[updated 04/09/18 -- p03]</small>
 # WITTAWAT KEAWCHAROEN
 ## Awards and Volunteerism
 ### Mentoring at Coder Dojo, Horsham (2015 - Present)
@@ -6,15 +6,17 @@ Voluntarily teach Programming to groups of young people and their parents at the
 ### Project: HELP The Game, WARCHILD UK (2016)
 Worked in a team of 7 as a principle programmer on an indie title called 'RISE'. The idea is to create a Rhythm-Based video game, features Beat Detection technology using FFT techniques where users can use their own contents to play. The game is part of a collaboration between SEGA and WARCHILD Charity, and we are The Creative Assembly's representatives.
 ### Volunteering at SprungDigi, Horsham Digital Arts (2015)
-Worked as The Creative Assembly representatives with Horsham District Council to help raising awareness on how to use 
+Worked as The Creative Assembly representatives with Horsham District Council to help raising awareness about using our modern technology to assist special people, and make them feel safe in the community.
 ### Registered as a STEM Ambassador (2012 - Present)
 ### Achievement at several Game Jam events
-- Creative Assembly, Franco Jam 2015, winner 1st place. Using HAXE Flixel
-- Creative Assembly, Franco Jam 2014, winner 3rd place. Using Unity
+- Creative Assembly, Franco Jam 2018, Essy Awards. Using UE4
+- Creative Assembly, Franco Jam 2015, Winner. Using HAXE Flixel
+- Creative Assembly, Franco Jam 2014, Essy Awards. Using Unity
 - Ubisoft Reflections, Game Jam 2012, best multiplayer game. Using HTML5 Canvas
 - Participating in Global Game Jam 2016
 ### Achievement in Sports and Wellness
-- 106km Isle of Wight Full Island Walking Ultra Challenge (Creative Assembly, 2017)
+- 100km Jurassic Coastal Walk Ultra Challenge (Creative Assembly, 2018)
+- 106km Isle of Wight Full Island Walk Ultra Challenge (Creative Assembly, 2017)
 - 10km Rough Runner Charity Challenge (Creative Assembly, 2017)
 - 64km South Downs Charity Walking Challenge (Creative Assembly, 2016) 
 - Table Tennis Player Awards, Horsham Table Tennis Club (2014)

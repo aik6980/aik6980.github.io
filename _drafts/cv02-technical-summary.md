@@ -1,9 +1,9 @@
-<small>[updated 07/01/18 -- p02]</small>
+<small>[updated 04/09/18 -- p02]</small>
 # WITTAWAT KEAWCHAROEN 
-## Software Developer | Graphic Programmer | Rendering Engineer
+## Senior Software Developer | Graphic Programmer | Rendering Engineer
 - Senior Programmer with a track record of multiple awards AAA Game Development, Working on several In-house Graphic Engines optimizing for Real-time Simulation and Rendering, experienced in both PC and Console Game Development.
-- Have a good knowledge about Agile and Project Management, have experienced as a Team Lead where we have to develop, maintain and support several large projects in parallel.
-- Well established in Research and Development strategy, very self driven and completely autonomous.
+- Have a good knowledge about Agile and Project Management, have experienced as a Team Lead working closely with Production in planning, develop, maintain and support several large projects in parallel.
+- Well established in Research and Development strategy, very self driven and can be completely autonomous.
 - Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
 
 ### Technical Summary
@@ -31,7 +31,7 @@
 
 # Work Experience
 ## The Creative Assembly - Horsham, UK 
-### Graphic Programmer (2012 to Present)
+### Senior Graphic Programmer (2012 to Present)
 Develop, maintain and support our in-house Graphic Engine crafted specifically for Total War Series. The renowned PC Game series featured a huge over world strategy map, and large battlefield simulation with multiple level of details. The project is developed for Windows PC using C++ with DirectX API. (With one special OpenGL project MacOSX Port of TW:ROME 2 in 2014)
 
 #### Release Titles
